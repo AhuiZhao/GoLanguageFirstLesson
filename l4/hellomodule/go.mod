@@ -1,4 +1,4 @@
-module github.com/bigwhite/hellomodule
+module GoLanguageFirstLesson/l4/hellomodule
 
 go 1.24.3
 
